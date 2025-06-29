@@ -16,9 +16,10 @@ body {
   width: 200px;
 }
 
-#apply-btn {
+button {
   padding: 0.5em 1em;
   margin-left: 0.5em;
+  cursor: pointer;
 }
 
 #box {
@@ -28,3 +29,7 @@ body {
   background: #ddd;
   border: 1px solid #aaa;
 }
+
+/*Branch 2*/
+
+/*Branch 3*/
